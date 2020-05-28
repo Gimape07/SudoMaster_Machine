@@ -1,0 +1,13 @@
+Install:
+
+tensorflow 2
+numpy
+pillow 7
+keras 2
+imageio 2
+matplotlib 3
+
+Run the file digit_recognizer.py, this should create a model file
+Run the file sudoku_recognizer.py, this will take an image as a parameter.
+In order to calculate the accuracy the image needs to be named following the 
+format on the Sudoku_Images folder
